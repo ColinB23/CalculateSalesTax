@@ -1,0 +1,19 @@
+C:\Users\Colin\Desktop\SalesTaxCalc - Colin Brodnik\obj\Debug\SalesTaxCalc - Colin Brodnik.csprojAssemblyReference.cache
+C:\Users\Colin\Desktop\SalesTaxCalc - Colin Brodnik\obj\Debug\SalesTaxCalc___Colin_Brodnik.Form1.resources
+C:\Users\Colin\Desktop\SalesTaxCalc - Colin Brodnik\obj\Debug\SalesTaxCalc___Colin_Brodnik.Properties.Resources.resources
+C:\Users\Colin\Desktop\SalesTaxCalc - Colin Brodnik\obj\Debug\SalesTaxCalc - Colin Brodnik.csproj.GenerateResource.cache
+C:\Users\Colin\Desktop\SalesTaxCalc - Colin Brodnik\bin\Debug\SalesTaxCalc - Colin Brodnik.exe.config
+C:\Users\Colin\Desktop\SalesTaxCalc - Colin Brodnik\bin\Debug\SalesTaxCalc - Colin Brodnik.exe
+C:\Users\Colin\Desktop\SalesTaxCalc - Colin Brodnik\bin\Debug\SalesTaxCalc - Colin Brodnik.pdb
+C:\Users\Colin\Desktop\SalesTaxCalc - Colin Brodnik\obj\Debug\SalesTaxCalc - Colin Brodnik.exe
+C:\Users\Colin\Desktop\SalesTaxCalc - Colin Brodnik\obj\Debug\SalesTaxCalc - Colin Brodnik.pdb
+D:\Completed School\Programming\intro to c#\IntroCalcProblems - Colin Brodnik\SalesTaxCalc - Colin Brodnik\bin\Debug\SalesTaxCalc - Colin Brodnik.exe.config
+D:\Completed School\Programming\intro to c#\IntroCalcProblems - Colin Brodnik\SalesTaxCalc - Colin Brodnik\bin\Debug\SalesTaxCalc - Colin Brodnik.exe
+D:\Completed School\Programming\intro to c#\IntroCalcProblems - Colin Brodnik\SalesTaxCalc - Colin Brodnik\bin\Debug\SalesTaxCalc - Colin Brodnik.pdb
+D:\Completed School\Programming\intro to c#\IntroCalcProblems - Colin Brodnik\SalesTaxCalc - Colin Brodnik\obj\Debug\SalesTaxCalc - Colin Brodnik.csprojAssemblyReference.cache
+D:\Completed School\Programming\intro to c#\IntroCalcProblems - Colin Brodnik\SalesTaxCalc - Colin Brodnik\obj\Debug\SalesTaxCalc___Colin_Brodnik.Form1.resources
+D:\Completed School\Programming\intro to c#\IntroCalcProblems - Colin Brodnik\SalesTaxCalc - Colin Brodnik\obj\Debug\SalesTaxCalc___Colin_Brodnik.Properties.Resources.resources
+D:\Completed School\Programming\intro to c#\IntroCalcProblems - Colin Brodnik\SalesTaxCalc - Colin Brodnik\obj\Debug\SalesTaxCalc - Colin Brodnik.csproj.GenerateResource.cache
+D:\Completed School\Programming\intro to c#\IntroCalcProblems - Colin Brodnik\SalesTaxCalc - Colin Brodnik\obj\Debug\SalesTaxCalc - Colin Brodnik.csproj.CoreCompileInputs.cache
+D:\Completed School\Programming\intro to c#\IntroCalcProblems - Colin Brodnik\SalesTaxCalc - Colin Brodnik\obj\Debug\SalesTaxCalc - Colin Brodnik.exe
+D:\Completed School\Programming\intro to c#\IntroCalcProblems - Colin Brodnik\SalesTaxCalc - Colin Brodnik\obj\Debug\SalesTaxCalc - Colin Brodnik.pdb
